@@ -1,0 +1,1 @@
+facem procesele pe fisiere !!!!
